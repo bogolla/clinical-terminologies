@@ -22,7 +22,6 @@ SECRET_KEY = 'g*o1@(k*kt@*g4fqwm#%rcyr2-ph0onmx=x_zapw4&oy$1ao@m'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-TEMPLATE_DEBUG = DEBUG
 
 # Honor the 'X-Forwarded-Proto' header for request.is_secure()
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
