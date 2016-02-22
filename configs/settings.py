@@ -74,10 +74,10 @@ TEMPLATES = [
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'rxnorm',
-        'USER': 'root',
-        'PASSWORD': 'admin',
+        'USER': 'glar',
+        'PASSWORD': 'glar',
         'HOST': 'localhost',
         'PORT': '5432',
     }
