@@ -1,0 +1,7 @@
+{
+  "name": "RxNorm Terminology Example",
+  "description": "A basic django app outlining APIs for RxNorm.",
+  "repository": "",
+  "keywords": ["python", "django" ],
+  "addons": [ "heroku-postgresql" ]
+}
